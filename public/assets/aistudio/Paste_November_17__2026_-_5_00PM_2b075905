@@ -1,0 +1,1103 @@
+
+PROJECT:
+GEORGIA HOLISTIC DENTIST
+PREMIUM MULTI-PAGE WEBSITE + INTERACTIVE APPOINTMENT MANAGEMENT DEMO
+
+ROLE AND EXPECTATIONS
+
+Act as a world-class team of:
+1. Award-winning healthcare website art director
+2. Premium dental brand designer
+3. Senior product UX/UI designer
+4. Expert React/TypeScript frontend developer
+5. Appointment scheduling UX specialist
+6. Frontend interaction and animation engineer
+7. Quality assurance engineer
+
+Your task is to BUILD a visually exceptional, responsive, multi-page website for Georgia Holistic Dentist, plus a fully interactive simulated appointment system and staff dashboard.
+
+The previous website concepts were rejected because they looked generic, basic, visually underdeveloped, and their admin workflow felt incomplete.
+
+This must be a substantial improvement.
+
+PRIORITIES IN ORDER:
+1. Exceptional premium dental website design
+2. High-quality authentic and licensed photography
+3. Excellent page layouts and responsive experience
+4. Fully interactive appointment-request demo
+5. Professional calendar-based staff dashboard
+6. Smooth and intentional animations
+7. Accurate practice content and reliable interactions
+
+Do not sacrifice visual quality for backend complexity.
+
+Do not create a real backend, real database, or Supabase integration.
+
+This is an interactive pre-sales demo.
+
+==================================================
+01. OFFICIAL CLIENT WEBSITE
+==================================================
+
+https://www.georgiaholisticdentist.com/
+
+CLIENT:
+Georgia Holistic Dentist / Georgia Holistic Dental
+
+DOCTOR:
+Dr. Lorie Miller Stevens, DMD, MAGD
+
+LOCATION:
+5129 Cleveland Highway
+Gainesville, Georgia 30506
+United States
+
+PHONE:
+770-983-0123
+
+PRACTICE:
+Independent, holistic, doctor-led dental practice.
+Operating by appointment.
+Weekday appointment-based practice.
+
+BUSINESS FOCUS:
+Holistic dentistry, whole-person wellness, oral-systemic connection, personalized treatment, advanced dental technology and patient comfort.
+
+IMPORTANT:
+This is NOT a multi-doctor dental chain.
+
+Do not invent additional doctors or clinic locations.
+
+Before creating the website, analyze the official practice website carefully.
+
+Identify and extract where legitimately accessible:
+- Original logo
+- Authentic doctor photography
+- Real practice interior/exterior imagery
+- Brand assets
+- Accurate services
+- Doctor credentials
+- Patient comfort amenities
+- Existing appointment information
+- Virtual consultations
+- Verified patient testimonials
+- Address and contact information
+
+Preserve all relevant factual information.
+
+Do not take imagery from competing dental websites.
+
+If the exact logo cannot be downloaded or confidently identified, do NOT manufacture a fake substitute and present it as the official logo.
+
+Use a clearly identified temporary branded wordmark until the genuine logo is supplied.
+
+If authentic doctor or clinic photos are unavailable, use tasteful licensed illustrative images that are not represented as the actual doctor or clinic.
+
+Keep a small content/asset verification report in the project.
+
+==================================================
+02. DESIGN REFERENCE WEBSITES
+==================================================
+
+REFERENCE 1 — PRIMARY:
+https://demo.awaikenthemes.com/denture/home-version-3/
+
+Study:
+- Hero composition
+- Dental photography
+- Strong typography
+- Blue and white visual balance
+- Section rhythm
+- Service cards
+- Doctor/technology presentation
+- Appointment panel
+- Scroll transitions
+- Polished professional layout
+
+REFERENCE 2:
+https://demo.awaikenthemes.com/denture/home-version-2/
+
+Study:
+- Doctor-focused hero composition
+- Layered photographs
+- Attractive visual storytelling
+- Image grids and offset cards
+- Step-by-step patient journey
+- Creative section compositions
+
+REFERENCE 3:
+https://dentamedi.qodeinteractive.com/
+
+Study if accessible:
+- Editorial layout
+- White space
+- Image positioning
+- Creative dental design
+- Premium card treatment
+- Booking area layout
+
+REFERENCE 4:
+https://html.awaikenthemes.com/dentaire/index-5.html
+
+Study:
+- Light, clean dental branding
+- Comfortable whitespace
+- Calm blue section backgrounds
+- Minimal services layout
+- Doctor imagery
+- Subtle decorative effects
+
+REFERENCE 5:
+https://html.awaikenthemes.com/dentaire/index.html
+
+Study:
+- Modern dental hero
+- Professional imagery
+- Service presentations
+- Patient experience
+- Trust-building content
+- Consistent footer and navigation
+
+These websites are design references only.
+
+DO NOT:
+- Clone any individual website
+- Reproduce copyrighted text or graphics
+- Reuse proprietary source code
+- Copy logos or business identities
+- Copy placeholder claims
+- Copy fictional patient statistics
+
+Create a distinctive, original Georgia Holistic Dentist website.
+
+If reference sites cannot be fetched, use the visual direction described in this prompt. Do not replace the intended design with a generic template.
+
+==================================================
+03. GLOBAL VISUAL IDENTITY
+==================================================
+
+DESIGN STYLE:
+Modern Premium Dental Clinic + Clean Editorial Healthcare
+
+The website must look:
+- Premium
+- Trustworthy
+- Polished
+- Minimal but visually rich
+- Modern
+- Photographic
+- Dental-specific
+- Approachable
+- Carefully art-directed
+
+Use premium typography, strong design composition, clean backgrounds and beautiful photographs.
+
+Suggested palette:
+
+Primary navy: #142746
+Accent blue: #346CF0
+Secondary blue: #6E95CB
+Ice blue: #EFF5FB
+Pure white: #FFFFFF
+Warm neutral: #F5F2ED
+Text: #1B2637
+
+These are starting tokens, not rigid restrictions.
+Adapt them intelligently to the original clinic logo.
+
+Use blue strategically rather than flooding every section.
+
+Provide visual contrast between:
+- White sections
+- Soft blue sections
+- Dark navy sections
+- Full-bleed photography sections
+
+Avoid:
+- A generic Bootstrap-like appearance
+- Endless repeated rectangular cards
+- All-white pages without visual depth
+- Excessive rounded corners
+- Fake glassmorphism everywhere
+- Unnecessary dashboards on public pages
+- Poor photo cropping
+- Random gradients
+- Emoji icons
+- Unpolished stock images
+- Placeholder copy
+- Oversized empty gaps
+- Generic spa branding
+
+TYPOGRAPHY:
+Use a polished combination such as:
+- Plus Jakarta Sans / Manrope for UI
+- DM Sans for body
+- An elegant restrained display font for hero headings
+
+Maintain strong hierarchy and generous readable spacing.
+
+LAYOUT:
+Desktop max-width approximately 1280–1440px.
+Use carefully balanced grids.
+Allow selected full-width cinematic sections.
+
+Use consistent:
+- Container widths
+- Section padding
+- Spacing tokens
+- Image radii
+- Button styles
+- Heading hierarchy
+- Card shadows
+- Icon design
+
+Every page should feel part of the same premium brand.
+
+==================================================
+04. HIGH-QUALITY IMAGES
+==================================================
+
+Photography is a CRITICAL success factor.
+
+Use beautiful relevant high-resolution imagery showing:
+- Professional dental care
+- Modern treatment rooms
+- Dental equipment
+- Dentist-patient interactions
+- Natural patient smiles
+- Digital dental technology
+- Relaxed and comfortable dental experiences
+
+Use a hybrid image strategy:
+A. Authentic official practice assets
+B. Carefully curated legally usable illustrative images
+
+Avoid unrelated spa, hotel, architecture and beauty photos.
+
+DO NOT use random portraits as Dr. Lorie.
+DO NOT display fake images as the actual clinic.
+
+For each main page:
+- Use a thoughtfully composed hero image
+- Include relevant supporting photography
+- Vary image proportions and crops
+- Avoid repeating identical images
+
+Implement:
+- Optimized image formats
+- Responsive sizes
+- Lazy loading
+- Appropriate alt text
+- Image loading fallbacks
+- Consistent art direction
+
+Never leave broken image placeholders.
+
+==================================================
+05. PREMIUM HOMEPAGE
+==================================================
+
+Build a polished, deliberately designed homepage.
+
+HEADER:
+- Authentic logo or clearly marked temporary wordmark
+- Home
+- About
+- Services dropdown
+- Holistic Approach
+- Technology
+- Appointments
+- Testimonials
+- Contact
+- Request Appointment CTA
+
+Provide a separate discreet Staff Demo entry, preferably in the footer or a small staff-access utility menu. It must be easy to find without distracting patients.
+
+Sticky header with subtle scroll styling.
+
+HERO:
+Create a cinematic photographic split or full-width composition inspired by Denture V3.
+
+Suggested headline:
+"Advanced Dentistry.
+Thoughtful Holistic Care."
+
+Supporting copy:
+Explain Dr. Lorie's whole-person dental philosophy in clear, premium American English.
+
+Primary button:
+Request an Appointment
+
+Secondary button:
+Call 770-983-0123
+
+Do not use invented patient counts, five-star ratings or success percentages.
+
+Below hero:
+Use a sophisticated small trust/credentials strip featuring verified facts:
+- DMD, MAGD
+- Practice established in 1991
+- Holistic approach
+- Modern dental technology
+
+SECTION 2 — INTRODUCTION
+Create an asymmetric editorial photo collage.
+
+Introduce the practice.
+Explain oral health and overall wellness.
+Add a clear About link.
+
+SECTION 3 — SERVICES
+Beautiful service grid using real services.
+
+Include verified categories such as:
+- Cosmetic Dentistry
+- Laser Gum Treatment
+- Waterlase Technology
+- Digital Dental Technology
+- Myo=Smile / TMJ
+- Virtual Consultations
+
+Each card must be visually distinctive and clickable.
+
+SECTION 4 — DR. LORIE
+Large authentic doctor photograph if available.
+Editorial biography layout.
+Show verified DMD/MAGD credentials.
+Explain professional experience and philosophy.
+
+SECTION 5 — DENTAL TECHNOLOGY
+Use a premium dark navy feature section with relevant dental photography.
+
+Highlight verified technology:
+- Waterlase
+- Intraoral Camera
+- Digital X-Ray
+- Oral Cancer Screening
+
+SECTION 6 — PATIENT COMFORT
+Use authentic practice details.
+Create an elegant photo-text layout.
+
+SECTION 7 — HOW APPOINTMENT REQUESTS WORK
+Use three clearly designed steps:
+1. Choose your visit
+2. Select preferred date and time
+3. Send your request
+
+Clearly state appointments require practice confirmation.
+
+SECTION 8 — APPOINTMENT DEMO
+Create a beautiful interactive booking/request section.
+
+Use an actual calendar component rather than static decorative fields.
+
+SECTION 9 — TESTIMONIALS
+Use only authentic quotations verified on the practice website.
+
+No invented five-star totals or fictional customer reviews.
+
+SECTION 10 — FINAL CTA
+Use a premium photography-backed CTA with strong contrast.
+
+SECTION 11 — FOOTER
+Include actual contact details, navigation, and a subtle staff demo link.
+
+==================================================
+06. COMPLETE MULTI-PAGE STRUCTURE
+==================================================
+
+Create functional routes:
+
+/
+Homepage
+
+/about
+Meet Dr. Lorie
+
+/holistic-dentistry
+Holistic Approach
+
+/services
+Services overview
+
+/services/:slug
+Individual verified service pages
+
+/technology
+Dental Technology
+
+/patient-comfort
+Patient Experience
+
+/virtual-consultations
+Virtual Appointments
+
+/patient-resources
+Patient Information and FAQs
+
+/testimonials
+Verified Testimonials
+
+/appointments
+Interactive Appointment Request
+
+/contact
+Contact, hours, map and directions
+
+/staff-demo
+Interactive Admin Dashboard
+
+/staff-demo/calendar
+Calendar View
+
+/staff-demo/requests
+Appointment Requests
+
+/staff-demo/requests/:id
+Request Details
+
+/staff-demo/settings
+Demo Settings
+
+Also create a polished 404 page.
+
+Each inner page must have:
+- A distinctive hero/banner
+- Suitable photography
+- Relevant page-specific copy
+- Unique content structure
+- Clear appointment CTA
+- Responsive layout
+- Working navigation
+
+Do not create empty placeholder pages.
+
+==================================================
+07. APPOINTMENT REQUEST SYSTEM
+==================================================
+
+This is the most important functional component.
+
+Build a genuinely interactive appointment-request demonstration.
+
+NO REAL BACKEND.
+NO SUPABASE.
+NO PAYMENT PROVIDER.
+NO REAL PATIENT RECORDS.
+
+Use synthetic sample data and browser storage.
+
+The system should demonstrate the complete workflow:
+
+PATIENT:
+Visits website
+→ Selects visit/service
+→ Selects preferred date
+→ Selects preferred time
+→ Enters fictional contact information
+→ Reviews request
+→ Submits
+→ Sees confirmation reference
+
+STAFF:
+Opens Staff Demo
+→ Sees the new sample request
+→ Reviews details
+→ Chooses a status
+→ Assigns a demo appointment time
+→ Updates the calendar
+→ Records activity in the demo
+
+BUILD A PREMIUM MULTI-STEP APPOINTMENT UI
+
+STEP 1 — VISIT
+- New / existing patient
+- Service requested
+- In-person / virtual
+- Clear progress indicator
+
+STEP 2 — SCHEDULING
+- Interactive month calendar
+- Navigate between months
+- Disable dates in the past
+- Respect simulated clinic settings
+- Display clearly labeled sample time slots
+- Show selected date visually
+- Provide alternate date option
+
+IMPORTANT:
+These are sample scheduling preferences, not verified real-world availability.
+
+STEP 3 — CONTACT
+Only demo-safe, nonclinical information:
+- Fictional full name
+- Fictional email
+- Fictional phone
+- Preferred contact method
+
+Provide clearly marked sample profiles.
+Do not collect real patients' sensitive details.
+
+STEP 4 — REVIEW
+Show:
+- Selected service
+- Preferred date
+- Preferred time
+- Sample contact details
+- Notice: Appointment not yet confirmed
+
+STEP 5 — CONFIRMATION
+Generate a request reference such as:
+GHD-DEMO-001
+
+Display:
+"Demo appointment request received."
+
+Explain that staff confirmation would be required in a real system.
+
+Provide:
+- Back to Home
+- View Demo Request in Staff Dashboard
+
+Use consistent state across the appointment UI and admin area.
+
+==================================================
+08. ADMIN DASHBOARD — CRITICAL
+==================================================
+
+The earlier admin dashboard was considered inadequate.
+
+Rebuild it as a proper premium scheduling product, not a generic table.
+
+ROUTE:
+/staff-demo
+
+It must have an easy-to-find access point.
+
+PUBLIC SITE:
+Small staff-access link in navigation utility or footer.
+
+STAFF DEMO ENTRY:
+Display a polished transition screen with:
+"Explore the Appointment Management Demo"
+
+Button:
+Enter Staff Demo
+
+No fake password field.
+No misleading authentication claims.
+
+ADMIN DESIGN:
+Professional dental practice management interface.
+
+Use:
+- Fixed/collapsible sidebar
+- Top utility bar
+- Date selector
+- Search
+- Notifications-style demo indicator
+- Clean data cards
+- Calendar
+- Professional typography
+- Consistent blue/white theme
+
+SIDEBAR:
+Overview
+Calendar
+Appointment Requests
+Follow-Ups
+Activity
+Demo Settings
+Back to Website
+
+OVERVIEW:
+Show metrics calculated from sample records:
+- Total requests
+- New enquiries
+- Awaiting confirmation
+- Confirmed
+- Reschedule requested
+- Closed
+
+Do not use arbitrary fake production statistics.
+
+Include:
+- Today's demo schedule
+- Upcoming requests
+- Recent activity
+- Requests requiring action
+
+CALENDAR:
+This is essential.
+
+Build:
+- Month view
+- Week view
+- Day view
+- Previous/next controls
+- Today button
+- Appointment blocks
+- Status colors
+- Clickable appointments
+- Appointment detail drawer
+- Date navigation
+
+Sample appointments should appear at their assigned dates and times.
+
+Allow a staff demo user to:
+- Confirm requests
+- Change appointment times
+- Reschedule
+- Cancel
+- Reopen
+- Add nonclinical staff notes
+
+Changes must update relevant screens consistently.
+
+REQUESTS PAGE:
+A professional appointment-management table.
+
+Columns:
+Reference
+Sample patient
+Requested service
+Preferred date/time
+Status
+Last updated
+Action
+
+Features:
+- Search
+- Filter by status
+- Filter by service
+- Sort
+- View request
+- Update status
+
+REQUEST DETAIL:
+Create a polished slide-over or detail page.
+
+Display:
+- Reference number
+- Fictional requester
+- Visit type
+- Service
+- Preferred date/time
+- Assigned appointment slot
+- Contact preference
+- Status history
+- Staff notes
+- Action buttons
+
+Actions:
+Confirm
+Contacted
+Reschedule
+Cancel
+Close
+Reopen
+
+FOLLOW-UPS:
+Display sample records requiring staff action.
+
+Allow:
+- Mark completed
+- Set next demo follow-up date
+- Add note
+
+ACTIVITY:
+Keep a simple timeline of demo actions.
+
+SETTINGS:
+- Simulated appointment hours
+- Sample appointment duration
+- Demo slot availability
+- Reset demo data
+- Demo mode explanation
+
+The admin must feel genuinely useful and navigable.
+
+==================================================
+09. DEMO DATA AND PERSISTENCE
+==================================================
+
+Implement one shared typed data layer.
+
+Suggested:
+React Context or Zustand.
+LocalStorage for demo persistence.
+
+Data structures:
+AppointmentRequest
+CalendarEvent
+FollowUp
+ActivityLog
+DemoSettings
+
+Use deterministic initial sample records.
+
+Provide a reset function.
+
+All records must be fictional and clearly labeled demo data.
+
+When a new demo appointment request is submitted:
+1. Save it to shared demo state.
+2. Generate its reference.
+3. Make it appear in Requests.
+4. Update dashboard counts.
+5. Add an activity entry.
+6. Keep the state after refresh.
+
+An unconfirmed request should not automatically become a confirmed calendar booking.
+
+After staff confirmation:
+- Create/update the calendar event.
+- Update status.
+- Update metrics.
+- Add history entry.
+
+After rescheduling:
+- Move the event to the selected date/time.
+- Update all views.
+
+After cancellation:
+- Remove it from confirmed schedule display or show as cancelled.
+- Preserve its history.
+
+No fake API calls.
+No hardcoded counters disconnected from sample records.
+No button that appears to work but does nothing.
+
+==================================================
+10. ANIMATION AND CURSOR EXPERIENCE
+==================================================
+
+Use polished animations inspired by the supplied reference websites.
+
+Implement:
+- Hero entrance animation
+- Image reveal effects
+- Scroll-triggered section reveals
+- Staggered cards
+- Smooth dropdowns
+- Button hover transitions
+- Image zoom on hover
+- Smooth page transitions
+- Subtle counters only when showing verified facts
+- Elegant calendar interactions
+- Admin drawer transitions
+
+CUSTOM CURSOR:
+Desktop pointer devices only.
+
+Use a subtle premium magnetic/hover cursor treatment where appropriate.
+
+Never sacrifice accessibility or usability.
+
+Keep normal cursor behavior for:
+- Form input fields
+- Text selection
+- Calendar controls
+- Assistive interaction
+
+Disable custom cursor on touchscreens.
+
+Respect prefers-reduced-motion.
+
+Avoid:
+- Heavy artificial parallax
+- Long animation delays
+- Distracting rotating graphics
+- Excessive 3D
+- Poor scrolling performance
+
+==================================================
+11. TECHNOLOGY
+==================================================
+
+Use a clean maintainable frontend stack:
+
+React
+TypeScript
+Vite
+Tailwind CSS
+React Router
+Motion for React
+Lucide icons
+date-fns
+Zustand or React Context
+LocalStorage for demo records
+
+Use reusable components:
+Header
+Footer
+Hero
+SectionHeading
+ServiceCard
+DoctorFeature
+TestimonialCard
+AppointmentWizard
+CalendarGrid
+StatusBadge
+AdminSidebar
+MetricCard
+RequestTable
+RequestDetailDrawer
+ActivityTimeline
+DemoResetControl
+
+No real database, API server or Supabase.
+
+Do not add unnecessary heavy dependencies.
+
+==================================================
+12. RESPONSIVE DESIGN
+==================================================
+
+Build fully responsive layouts.
+
+Test at:
+375px
+430px
+768px
+1024px
+1440px
+1920px
+
+Desktop:
+Premium cinematic layout.
+
+Tablet:
+Well-balanced responsive grid.
+
+Mobile:
+Proper navigation drawer.
+Readable typography.
+Appropriately cropped images.
+Stacked sections.
+Accessible buttons.
+Mobile-friendly appointment calendar.
+Responsive admin dashboard.
+
+Admin mobile behavior:
+Sidebar becomes a drawer.
+Tables become cards where useful.
+Calendar controls remain usable.
+
+No horizontal overflow.
+
+==================================================
+13. CONTENT ACCURACY
+==================================================
+
+Use the official client website as the primary factual source.
+
+Verified categories include:
+- Holistic/whole-person dentistry
+- Cosmetic dentistry
+- Non-surgical laser gum treatment
+- Waterlase
+- Digital radiography
+- Intraoral camera
+- Oral cancer screening
+- Myo=Smile / TMJ-related offerings
+- Virtual appointments
+- Patient resources
+
+Verify exact service names before publishing.
+
+Do not invent:
+- Team members
+- Awards
+- Patient counts
+- Ratings
+- Testimonials
+- Treatment prices
+- Clinic photographs
+- Certifications
+- Appointment availability
+- Medical success guarantees
+
+Use real published testimonials only, with correct attribution and any necessary permission.
+
+Contact information must be consistent across the site.
+
+OFFICE HOURS:
+The official site describes weekday availability by appointment.
+Do not invent fixed opening or available booking hours.
+
+Demo calendar hours may be illustrative, but they must be clearly labeled simulated.
+
+==================================================
+14. SEO, ACCESSIBILITY AND PERFORMANCE
+==================================================
+
+Include:
+- Unique page titles
+- Meta descriptions
+- Semantic HTML
+- Proper heading hierarchy
+- Appropriate alt text
+- Internal navigation
+- Accessible forms
+- Keyboard support
+- Focus indicators
+- Accessible colors
+- Responsive images
+- Lazy loading
+- Reduced-motion support
+
+Aim for fast loading.
+
+Do not load excessive animation libraries or huge images unnecessarily.
+
+==================================================
+15. VISUAL QUALITY GATE
+==================================================
+
+Before marking the website complete, review every page as a professional design director.
+
+Ask:
+
+Does this look like a premium independent dental practice?
+
+Does it use authentic branding instead of a fake generic clinic identity?
+
+Are the photos professional, relevant and beautifully cropped?
+
+Is there enough visual variation across sections?
+
+Does each page have a unique layout?
+
+Does the homepage look stronger than a generic theme?
+
+Are button styles consistent?
+
+Is text spacing professional?
+
+Is the appointment flow visually intuitive?
+
+Is admin access obvious?
+
+Does the calendar actually work?
+
+Does the demo dashboard reflect submitted sample requests?
+
+Would a potential client immediately understand the value?
+
+If any answer is no, improve the relevant component before completion.
+
+==================================================
+16. FUNCTIONAL QA
+==================================================
+
+TEST THE FOLLOWING:
+
+1. Homepage loads.
+2. Every route opens.
+3. Navigation works.
+4. Logo links to Home.
+5. Services dropdown works.
+6. Every service card opens correctly.
+7. Appointment CTA opens the wizard.
+8. Date navigation works.
+9. Past dates are disabled.
+10. Time preferences can be selected.
+11. Required fields validate.
+12. Demo submission creates a request.
+13. Reference number is generated.
+14. New request appears in admin.
+15. Dashboard counts update.
+16. Refresh preserves demo state.
+17. Status changes work.
+18. Calendar view renders correctly.
+19. Staff can confirm a request.
+20. Confirmed request appears on calendar.
+21. Rescheduling updates calendar.
+22. Cancellation updates status.
+23. Notes persist.
+24. Filters work.
+25. Search works.
+26. Follow-ups work.
+27. Reset demo restores initial data.
+28. Staff Demo access is visible.
+29. Return to Website works.
+30. Mobile responsive layouts work.
+31. No broken images.
+32. No placeholder text.
+33. No fake real-backend claims.
+34. No invented clinic details.
+35. No console errors in tested flows.
+
+If a feature is incomplete, disclose it clearly.
+
+==================================================
+17. IMPLEMENTATION PROCESS
+==================================================
+
+PHASE 1:
+Inspect the official practice and references.
+Collect factual content and available authentic assets.
+
+PHASE 2:
+Build a polished global design system.
+
+PHASE 3:
+Create the premium homepage.
+Do not proceed with generic placeholder styling.
+
+PHASE 4:
+Create complete, well-designed inner pages.
+
+PHASE 5:
+Implement interactive appointment-request workflow.
+
+PHASE 6:
+Build premium staff dashboard, calendar and enquiry management.
+
+PHASE 7:
+Connect both demo experiences using shared local state.
+
+PHASE 8:
+Add subtle animations and cursor enhancements.
+
+PHASE 9:
+Complete responsive testing and functional QA.
+
+If execution limits occur, preserve completed work and explain exactly what remains.
+
+==================================================
+18. FINAL OUTPUT
+==================================================
+
+Deliver:
+- Fully working multi-page website
+- Premium original dental design
+- Official practice branding where obtainable
+- High-quality relevant photography
+- Interactive appointment-request demonstration
+- Functional simulated staff dashboard
+- Working month/week/day calendar
+- Search and status management
+- Follow-up demonstration
+- Local demo persistence
+- Reset sample data function
+- Responsive mobile experience
+- Clean source code
+- Setup instructions
+- QA report
+
+MOST IMPORTANT:
+
+DO NOT build a basic generic dental website.
+
+DO NOT make the admin dashboard an afterthought.
+
+DO NOT create a real backend.
+
+DO NOT substitute fake testimonials or fabricated medical claims.
+
+DESIGN QUALITY, RELIABLE INTERACTIONS AND AUTHENTIC PRACTICE IDENTITY ARE NON-NEGOTIABLE.
+
+Build a cohesive, exceptionally polished dental clinic website that could credibly be presented as a premium custom design proposal for Georgia Holistic Dentist.

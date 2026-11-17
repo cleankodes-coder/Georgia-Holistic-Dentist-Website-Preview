@@ -1,0 +1,6 @@
+{
+  "name": "Georgia Holistic Dentist | Dr. Lorie Miller Stevens, DMD, MAGD",
+  "description": "Independent holistic dental practice in Gainesville, Georgia led by Dr. Lorie Miller Stevens, DMD, MAGD. Whole-person dental care, Waterlase technology, and interactive appointment scheduling demo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
